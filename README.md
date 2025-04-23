@@ -20,11 +20,31 @@ Passionate about technology, clean code, and building solutions that make an imp
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Java, PHP, JavaScript, HTML5, CSS3, SQL
-- **Frameworks & Libraries**: Flask, Django, Node.js, React (basics), Bootstrap
-- **Databases**: MySQL, SQLite
-- **Version Control**: Git & GitHub
-- **Other Skills**: REST APIs, JSON, Linux basics, Debugging & Testing
+### 🧑‍💻 Programming Languages  
+- **Python**, **Java**, **PHP**, **JavaScript**
+
+### 🌐 Web Development  
+- **HTML5**, **CSS3**, **Bootstrap**  
+- REST APIs, AJAX, JSON  
+- Basic knowledge of **React**
+
+### ⚙️ Frameworks & Platforms  
+- **Flask**, **Django**, **Node.js**  
+- Maven, Spring (basic understanding)
+
+### 🗄️ Databases & Query Languages  
+- **MySQL**, **SQLite**  
+- **SQL** (Data definition, manipulation, queries)
+
+### 🛠️ Tools & Environments  
+- **Git**, **GitHub**, **VS Code**, IntelliJ IDEA, Eclipse  
+- Windows, Linux (command line basics)
+
+### 🧪 Other Skills  
+- Unit testing (JUnit, PyTest)  
+- Object-Oriented Programming (OOP)  
+- MVC architecture  
+- Software documentation
 
 ---
 
