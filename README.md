@@ -20,33 +20,52 @@ Passionate about technology, clean code, and building solutions that make an imp
 
 ---
 
-## 🛠️ Technologies & Tools
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-### 🧑‍💻 Programming Languages  
-- **Python**, **Java**, **PHP**, **JavaScript**
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><b>Languages</b><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+    </td>
+    <td align="center"><b>Web</b><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+    </td>
+    <td align="center"><b>Databases</b><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="45"/>
+    </td>
+    <td align="center"><b>OS</b><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45"/>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Web Development  
-- **HTML5**, **CSS3**, **Bootstrap**  
-- REST APIs, AJAX, JSON  
-- Basic knowledge of **React**
 
-### ⚙️ Frameworks & Platforms  
-- **Flask**, **Django**, **Node.js**  
-- Maven, Spring (basic understanding)
 
-### 🗄️ Databases & Query Languages  
-- **MySQL**, **SQLite**  
-- **SQL** (Data definition, manipulation, queries)
-
-### 🛠️ Tools & Environments  
-- **Git**, **GitHub**, **VS Code**, IntelliJ IDEA, Eclipse  
-- Windows, Linux (command line basics)
-
-### 🧪 Other Skills  
-- Unit testing (JUnit, PyTest)  
-- Object-Oriented Programming (OOP)  
-- MVC architecture  
-- Software documentation
 
 ---
 
