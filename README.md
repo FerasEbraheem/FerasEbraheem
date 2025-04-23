@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/FerasEbraheem/FerasEbraheem/raw/main/assets/scse.jpg" alt="Feras Banner" width="100%" height="110" />
+</p>
 # Hi there 👋, I'm Feras Alshaekh Ebraheem
 
 ## 💻 Aspiring Software Developer | Web Development | AI Enthusiast
@@ -69,3 +71,7 @@ Feel free to visit my LinkedIn profile or check out my repositories!
 ---
 
 > **"Technology is best when it brings people together." – Matt Mullenweg**
+>
+> <p align="center">
+  <img src="https://github.com/FerasEbraheem/FerasEbraheem/raw/main/assets/scse.jpg" alt="Feras Banner" width="100%" height="110" />
+</p>
